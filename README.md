@@ -1,4 +1,4 @@
-# Summer_Internship2024_21IT159
+# Summer_Internship2024_21IT159_21TI029_21IT037
 ### 6th Sem Summer Internship
 ### 🌟 Summer Internship 2024 - eCommerce App Showcase 🌟
 Welcome to my GitHub repository for the Summer Internship 2024! This project showcases the development of an eCommerce application using Flutter and the BLoC pattern. Throughout this internship, I focused on designing and implementing the frontend of the application, which includes various essential screens and features.
